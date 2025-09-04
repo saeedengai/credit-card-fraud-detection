@@ -1,0 +1,20 @@
+﻿# Core
+numpy>=1.23
+pandas>=2.2
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+lightgbm>=4.0
+
+# Viz
+matplotlib>=3.8
+seaborn>=0.13
+
+# IO / DB (optional; remove if unused)
+SQLAlchemy>=2.0
+pyodbc
+
+# Dev
+jupyter
+ipykernel
+python-dotenv>=1.0
+joblib>=1.3
